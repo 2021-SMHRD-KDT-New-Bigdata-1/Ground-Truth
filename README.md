@@ -16,11 +16,11 @@
 - **Framworks** : Bootstrap
 - **IDEs** : Vscode
 
-## 2**. 프로젝트 일정**
+## 2. 프로젝트 일정
 
 ![https://user-images.githubusercontent.com/89984853/198654840-1af0df68-a262-4d93-82a4-ae77b238908f.png](https://user-images.githubusercontent.com/89984853/198654840-1af0df68-a262-4d93-82a4-ae77b238908f.png)
 
-## 3**. 구현 화면**
+## 3. 구현 화면
 ### 페이지 소개
 
 → 프로젝트의 페이지는 **대표적으로 세 개로 이루어져** 있다. 구현 화면은 ppt사진으로 대신한다. 
